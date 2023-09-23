@@ -1,6 +1,6 @@
 # credit_default_prediction
 Machine Learning project developed during my Master in Data Science and Business Analytics.  
-The main task was to predict wether or not a customer is capable of repaying a loan. The data was given as part of a Kaggle competition and is not included in this repository, you can find it [here](https://www.kaggle.com/competitions/home-credit-default-risk/).  
+The main task was to predict whether or not a customer is capable of repaying a loan. The data was given as part of a Kaggle competition and is not included in this repository, you can find it [here](https://www.kaggle.com/competitions/home-credit-default-risk/).  
 Various classifiers were tested, including decision trees, support vector machines, multi layer perceptron, etc.
 
 ## Files of interest
